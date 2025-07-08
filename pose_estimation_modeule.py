@@ -63,7 +63,7 @@ class poseDetector():
 
 def main():
     pTime=0
-    cap=cv2.VideoCapture("C://Users//ARYA SHARMA//Downloads//pexels-cottonbro-studio-2795750-3840x2160-25fps.mp4")
+    cap=cv2.VideoCapture("")
     frame_height = int(cap.get(4))
     new_width = 700  # Set the desired width
     new_height = 510  # Set the desired height

@@ -5,7 +5,7 @@ import math
 import time
 import pose_estimation_modeule as pm
 
-cap=cv2.VideoCapture("C://Users//ARYA SHARMA//Downloads//pexels-cottonbro-studio-4754028-4096x2160-25fps.mp4")
+cap=cv2.VideoCapture("")
 new_width = 700  # Set the desired width
 new_height = 510  # Set the desired height
 
